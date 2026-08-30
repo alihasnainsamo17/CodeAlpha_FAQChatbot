@@ -1,1 +1,1 @@
-Updated README to describe admin endpoints and persistent storage.
+Updated README to describe admin endpoints and vpersistent storage.
